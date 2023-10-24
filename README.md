@@ -1,0 +1,5 @@
+# Shooter-IG
+You need to download the ZIP where you tried downloading before, there's no release this time, also you need to download a python extension
+
+So you'll need to open up CMD and type: pip install pygame
+Have fun! :D
